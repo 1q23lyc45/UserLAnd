@@ -22,7 +22,7 @@ android {
 
         applicationId "tech.ula"
         minSdkVersion 21
-        targetSdkVersion 30
+        targetSdkVersion 28
         versionCode 7438725
         versionName "2.8.3"
         
